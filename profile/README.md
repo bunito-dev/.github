@@ -33,4 +33,4 @@ We're building `bunito` as a clean and practical foundation for modern backend a
 
 ---
 
-Built with Bun and TypeScript.
+Built with Bun, TypeScript and ❤️
