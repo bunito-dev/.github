@@ -1,4 +1,4 @@
-Welcome to the official GitHub organization for **Bunito**.
+👋 Welcome to the official GitHub organization for **Bunito**.
 
 This organization is focused on a single main project right now:
 
