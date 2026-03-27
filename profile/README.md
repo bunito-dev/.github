@@ -1,4 +1,4 @@
-👋 Welcome to the official GitHub organization for **Bunito**.
+👋 Welcome to the official GitHub organization for **bunito**.
 
 ## Main repository 🚀
 
