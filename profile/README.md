@@ -31,12 +31,6 @@ The main repository currently includes:
 
 We're building `bunito` as a clean and practical foundation for modern backend apps on Bun.
 
-## Start here 🧭
-
-Visit the main repository:
-
-### [`github.com/bunito-dev/bunito`](https://github.com/bunito-dev/bunito)
-
 ---
 
 Built with Bun and TypeScript.
