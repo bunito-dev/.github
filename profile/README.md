@@ -1,7 +1,5 @@
 👋 Welcome to the official GitHub organization for **Bunito**.
 
-This organization is focused on a single main project right now:
-
 ## Main repository 🚀
 
 - [`bunito`](https://github.com/bunito-dev/bunito) - the core framework repository
