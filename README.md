@@ -1,4 +1,4 @@
-# Bunito organization profile
+# Bunito profile
 
 Official GitHub organization profile for **Bunito**.
 
