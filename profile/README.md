@@ -1,12 +1,48 @@
-## Hi there 👋
+# Bunito
 
-<!--
+> Bun-first TypeScript framework for modular applications.
 
-**Here are some ideas to get you started:**
+Welcome to the official GitHub organization for **bunito**.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+This organization is focused on a single main project right now:
+
+## Main repository 🚀
+
+- [`bunito`](https://github.com/bunito-dev/bunito) - the core framework repository
+
+If you want to explore the project, start there. You'll find the framework source, workspace packages, example app, and the current direction of the project in one place.
+
+## What is bunito? ✨
+
+`bunito` is a modern framework for building applications with **Bun** and **TypeScript**.
+
+It is designed around:
+
+- ⚡ fast developer workflows
+- 🧩 modular architecture
+- 🛠️ dependency injection
+- 🌐 built-in HTTP support
+- 🔒 strict TypeScript foundations
+
+## Project structure 📦
+
+The main repository currently includes:
+
+- `@bunito/common`
+- `@bunito/core`
+- `@bunito/http`
+- `example`
+
+## Current focus 🏗️
+
+We're building `bunito` as a clean and practical foundation for modern backend apps on Bun.
+
+## Start here 🧭
+
+Visit the main repository:
+
+### [`github.com/bunito-dev/bunito`](https://github.com/bunito-dev/bunito)
+
+---
+
+Built with Bun and TypeScript.
