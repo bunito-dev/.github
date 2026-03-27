@@ -1,8 +1,4 @@
-# Bunito
-
-> Bun-first TypeScript framework for modular applications.
-
-Welcome to the official GitHub organization for **bunito**.
+Welcome to the official GitHub organization for **Bunito**.
 
 This organization is focused on a single main project right now:
 
