@@ -1,3 +1,3 @@
-# Bunito profile
+# bunito org profile
 
-Official GitHub organization profile for **Bunito**.
+Official GitHub organization bunito for **Bunito**.
