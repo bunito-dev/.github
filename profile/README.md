@@ -25,7 +25,7 @@ The main repository currently includes:
 - `@bunito/common`
 - `@bunito/core`
 - `@bunito/http`
-- `example`
+- `examples`
 
 ## Current focus 🏗️
 
