@@ -18,15 +18,6 @@ It is designed around:
 - 🌐 built-in HTTP support
 - 🔒 strict TypeScript foundations
 
-## Project structure 📦
-
-The main repository currently includes:
-
-- `@bunito/common`
-- `@bunito/core`
-- `@bunito/http`
-- `examples`
-
 ## Current focus 🏗️
 
 We're building `bunito` as a clean and practical foundation for modern backend apps on Bun.
