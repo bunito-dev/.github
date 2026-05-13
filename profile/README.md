@@ -8,7 +8,7 @@
 
 The main repo contains the framework source, workspace packages, runnable examples, documentation, and the current direction of the project.
 
-### Why bunito? ✨
+### Why `bunito`? ✨
 
 - ⚡ **Bun-first** - designed around Bun’s runtime, tooling, and speed
 - 🧩 **Modular by design** - apps are built from small, focused modules
