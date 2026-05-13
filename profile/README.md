@@ -4,7 +4,8 @@
 
 ### Start Here 🚀
 
-- [`bunito`](https://github.com/bunito-dev/bunito) - the main framework repository
+- [`bunito`](https://github.com/bunito-dev/bunito) - framework source, packages, and examples
+- [`docs.bunito.dev`](https://docs.bunito.dev/) - documentation, guides, and examples
 
 The main repo contains the framework source, workspace packages, runnable examples, documentation, and the current direction of the project.
 
