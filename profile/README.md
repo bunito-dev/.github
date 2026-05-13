@@ -1,27 +1,29 @@
-👋 Welcome to the official GitHub organization for **bunito**.
+### 👋 Hey!
 
-## Main repository 🚀
+`bunito` is a lightweight, modular framework for building fast applications on top of **Bun**. It brings together dependency injection, modules, configuration, logging, HTTP APIs, and microservices patterns in a clean TypeScript-first package.
 
-- [`bunito`](https://github.com/bunito-dev/bunito) - the core framework repository
+### Start Here 🚀
 
-If you want to explore the project, start there. You'll find the framework source, workspace packages, example app, and the current direction of the project in one place.
+- [`bunito`](https://github.com/bunito-dev/bunito) - the main framework repository
 
-## What is bunito? ✨
+The main repo contains the framework source, workspace packages, runnable examples, documentation, and the current direction of the project.
 
-`bunito` is a modern framework for building applications with **Bun** and **TypeScript**.
+### Why bunito? ✨
 
-It is designed around:
+- ⚡ **Bun-first** - designed around Bun’s runtime, tooling, and speed
+- 🧩 **Modular by design** - apps are built from small, focused modules
+- 🛠️ **Dependency injection included** - providers, scopes, lifecycle hooks, and clean composition
+- 🌐 **HTTP ready** - controllers, routing, middleware, validation, and exceptions
+- 📡 **Microservices friendly** - broker abstractions, request/reply, events, local and NATS adapters
+- 🔒 **TypeScript-native** - strict types, decorators, and expressive APIs
+- 📦 **Focused packages** - use what you need without dragging everything in
 
-- ⚡ fast developer workflows
-- 🧩 modular architecture
-- 🛠️ dependency injection
-- 🌐 built-in HTTP support
-- 🔒 strict TypeScript foundations
+### Status 🧪
 
-## Current focus 🏗️
+`bunito` is evolving quickly. Its APIs are shaped around real examples, focused packages, and a developer experience that feels natural in Bun projects.
 
-We're building `bunito` as a clean and practical foundation for modern backend apps on Bun.
+Follow the main repository for progress, examples, and documentation.
 
 ---
 
-Built with Bun, TypeScript and ❤️
+Built with **Bun**, **TypeScript**, and ❤️
